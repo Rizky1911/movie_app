@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/iBAtBLqCMON3NPIjyQ1wdMbpTAk.jpg",
+      "first_air_date": "2019-04-06",
+      "genre_ids": [
+        16,
+        10765,
+        10759
+      ],
+      "id": 85937,
+      "name": "Demon Slayer: Kimetsu no Yaiba",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "鬼滅の刃",
+      "overview": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.",
+      "popularity": 94.105,
+      "poster_path": "/wrCVHdkBlBWdJUZPvnJWcBRuhSY.jpg",
+      "vote_average": 8.8,
+      "vote_count": 4034
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

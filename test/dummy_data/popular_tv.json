@@ -1,0 +1,27 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/n6vVs6z8obNbExdD3QHTr4Utu1Z.jpg",
+      "first_air_date": "2019-07-25",
+      "genre_ids": [
+        10765,
+        10759
+      ],
+      "id": 76479,
+      "name": "The Boys",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Boys",
+      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+      "popularity": 4866.719,
+      "poster_path": "/stTEycfG9928HYGEISBFaG1ngjM.jpg",
+      "vote_average": 8.4,
+      "vote_count": 6319
+    }
+  ],
+  "total_pages": 6386,
+  "total_results": 127704
+}
